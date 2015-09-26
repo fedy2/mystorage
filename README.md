@@ -1,6 +1,10 @@
 # mystorage
-A sandbox application for Angular 2.
+A sandbox application for Angular 2 and TypeScript.
 
-I will use this application to learn Angular 2 and TypeScript. I want also to try to improve the user of GitHub issues list and the Trello board and cards.
-
-Trello board: https://trello.com/b/WGWtNGP5/mystorage
+The application is a storage manager. The application will help the user to manager his storage tracking where stored items are.
+The application suppose the storage is organized in this way:
+* The storage has one or more shelfs.
+* Each shelf has a label and one or more levels. 
+* Each level has a label and one or more boxes.
+* Each box has a label and one or more items.
+* Each item has a description.
